@@ -12,9 +12,9 @@
 
 ✨ <b>About Me</b>
 
-• 📊 Passionate about <b>working with data</b> and uncovering meaningful insights
-• 📈 Focused on <b>real-world projects</b> and practical learning
-• 🌱 Continuously improving through <b>hands-on experience</b>
+• 📊 Passionate about <b>working with data</b> and uncovering meaningful insights <br>
+• 📈 Focused on <b>real-world projects</b> and practical learning <br>
+• 🌱 Continuously improving through <b>hands-on experience</b> <br>
 • 💡 Strong interest in <b>problem-solving using data</b>
 
 ---
@@ -36,8 +36,11 @@
 🚀 <b>Projects</b>
 
 • 📊 <b>Healthcare Analytics Dashboard</b> — Data insights using Excel <br>
+
 • 📈 <b>OTT Streaming SQL Analytics</b> — SQL-based data analysis <br>
+
 • 🎥 <b>CCTV Detection System</b> — Computer vision project <br>
+
 • 🛒 <b>E-commerce Platform</b> — Full project with user features
 
 ---
