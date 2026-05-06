@@ -35,9 +35,9 @@
 
 🚀 <b>Projects</b>
 
-• 📊 <b>Healthcare Analytics Dashboard</b> — Data insights using Excel
-• 📈 <b>OTT Streaming SQL Analytics</b> — SQL-based data analysis
-• 🎥 <b>CCTV Detection System</b> — Computer vision project
+• 📊 <b>Healthcare Analytics Dashboard</b> — Data insights using Excel <br>
+• 📈 <b>OTT Streaming SQL Analytics</b> — SQL-based data analysis <br>
+• 🎥 <b>CCTV Detection System</b> — Computer vision project <br>
 • 🛒 <b>E-commerce Platform</b> — Full project with user features
 
 ---
