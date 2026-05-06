@@ -1,13 +1,25 @@
-Hi, I'm Shilpa 👋
+<h1 align="center">Hi 👋, I'm <b>Shilpa</b></h1>
 
-✨ About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&center=true&vCenter=true&lines=Data+Analytics;Data-Driven+Projects;Always+Learning" />
+</p>
 
-• 📊 Interested in working with data and uncovering meaningful insights
-• 📈 Focused on real-world projects and practical learning
-• 🌱 Continuously improving skills through hands-on experience
-• 💡 Curious mindset with a problem-solving approach
+<p align="center">
+  <b>Finding insights in data and building real-world solutions</b>
+</p>
 
-🛠️ Tools & Technologies
+---
+
+✨ <b>About Me</b>
+
+• 📊 Passionate about <b>working with data</b> and uncovering meaningful insights
+• 📈 Focused on <b>real-world projects</b> and practical learning
+• 🌱 Continuously improving through <b>hands-on experience</b>
+• 💡 Strong interest in <b>problem-solving using data</b>
+
+---
+
+🛠️ <b>Tools & Technologies</b>
 
 <p align="center">
 
@@ -33,48 +45,31 @@ Hi, I'm Shilpa 👋
 
 ---
 
-🚀 Projects
+🚀 <b>Projects</b>
+
+• 📊 <b>Healthcare Analytics Dashboard</b> — Data insights using Excel
+• 📈 <b>OTT Streaming SQL Analytics</b> — SQL-based data analysis
+• 🎥 <b>CCTV Detection System</b> — Computer vision project
+• 🛒 <b>E-commerce Platform</b> — Full project with user features
+
+---
+
+📊 <b>GitHub Activity</b>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shilpatumma&show_icons=true&theme=tokyonight" />
+</p>
 
-📊 <b>Healthcare Analytics Dashboard</b>
-Analyzed healthcare data to generate insights using Excel dashboards
-
-<br><br>
-
-📈 <b>OTT Streaming SQL Analytics</b>
-Performed data analysis using SQL queries on streaming platform datasets
-
-<br><br>
-
-🎥 <b>CCTV Detection System</b>
-Built a computer vision system for real-time face detection
-
-<br><br>
-
-🛒 <b>E-commerce Platform</b>
-Developed a full-featured project with product management and user features
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shilpatumma&theme=tokyonight" />
 </p>
 
 ---
 
-📊 GitHub Activity
+🌐 <b>Connect</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
----
-
-🌐 Connect with Me
-
-<p align="center">
-  💼 <a href="https://www.linkedin.com/in/shilpa-tumma/">LinkedIn</a>  
+  💼 <a href="https://www.linkedin.com/in/shilpa-tumma/"><b>LinkedIn</b></a>  
   <br>
-  📧 shilpatumma21@gmail.com  
+  📧 <b>shilpatumma21@gmail.com</b>  
 </p>
